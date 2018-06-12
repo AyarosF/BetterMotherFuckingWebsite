@@ -1,3 +1,10 @@
+button {
+  border: 1px solid rgb(186, 174, 177);
+  cursor: pointer;
+  background-color: #bec7be;
+}
+
+
 body {
   margin: 40px auto;
   max-width: 650px;
