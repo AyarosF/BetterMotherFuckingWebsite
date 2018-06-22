@@ -7,6 +7,7 @@ Reproduction du site BetterMotherFuckingWebsite avec ajout
 - le fond (magenta) 
 - la couleur des paragraphes et headings (bleu et vert) 
 - la police des paragraphes et headings (papyrus et Comic Sans MS)
+
 et permettant le retour à la normale après un second clic. 
 
 
